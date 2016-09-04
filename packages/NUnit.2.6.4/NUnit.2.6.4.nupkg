@@ -1,0 +1,7 @@
+http://nuget.org/api/v2/package/NUnit/2.6.4
+version https://git-lfs.github.com/spec/v1
+archive.path NUnit.2.6.4.nupkg
+archive.type zip
+archive.url http://nuget.org/api/v2/package/NUnit/2.6.4
+oid sha256:be8cde6e9754474d5d4f553addb6331cf442c2182a0eb4dc87618d744fd59ca9
+size 99004
