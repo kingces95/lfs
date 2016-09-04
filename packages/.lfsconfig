@@ -1,0 +1,6 @@
+[lfs "curl"]
+	url = http://nuget.org/api/v2/package/${id}/${ver}
+	regex = ^((?<id>.*?)[.])(?=\\d)(?<ver>[^/]*)/(?<path>.*)
+[lfs "curl.archive"]
+	type = zip
+	path = ${path}

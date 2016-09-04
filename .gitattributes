@@ -1,2 +1,1 @@
-*.zip filter=nuget diff=nuget merge=nuget -text
 *.dll filter=lfs diff=lfs merge=lfs -text
