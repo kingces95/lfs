@@ -1,2 +1,1 @@
-*.dll filter=lfs.curl diff=lfs.curl merge=lfs.curl -text
-*.nupkg filter=lfs.curl diff=lfs.curl merge=lfs.curl -text
+* filter=lfs.curl diff=lfs.curl merge=lfs.curl -text
