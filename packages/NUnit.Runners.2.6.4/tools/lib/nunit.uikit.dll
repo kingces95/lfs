@@ -1,0 +1,6 @@
+version https://git-lfs.github.com/spec/v1
+archive.path tools/lib/nunit.uikit.dll
+archive.type zip
+archive.url http://nuget.org/api/v2/package/NUnit.Runners/2.6.4
+oid sha256:5c961676107ef040837c6e105c47743e7530c0dbd79d6b1d7ef86bc166ae4998
+size 241664

@@ -1,0 +1,6 @@
+version https://git-lfs.github.com/spec/v1
+archive.path tools/pnunit.tests.dll
+archive.type zip
+archive.url http://nuget.org/api/v2/package/NUnit.Runners/2.6.4
+oid sha256:00a7fe9256fae96b39aaa2a10b3aa199117b9fef78d85ca4491e1eafeabe35c6
+size 8192

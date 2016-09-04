@@ -1,0 +1,6 @@
+version https://git-lfs.github.com/spec/v1
+archive.path tools/nunit-agent-x86.exe
+archive.type zip
+archive.url http://nuget.org/api/v2/package/NUnit.Runners/2.6.4
+oid sha256:f226e9817aab40c5ce5c32901a72fc82e0da5be9fc04d7fa03b460dc5d088ad8
+size 8192
