@@ -1,3 +1,4 @@
 * filter=lfs.curl diff=lfs.curl merge=lfs.curl -text
 .lfsconfig filter= diff= merge= -text
 .gitattributes filter= diff= merge= -text
+.gitignore filter= diff= merge= -text
